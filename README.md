@@ -1,10 +1,5 @@
 # go-blog
 
-Address: [https://www.iphpt.com](https://www.iphpt.com)
-
-> I spent some time refactoring alone!
-
-[中文文档](./README.CN.md)
 
 ## main:
 
